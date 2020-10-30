@@ -1,0 +1,90 @@
+.header-d-1{
+	width:100%;
+	height:100px;
+	background-color:purple;
+	display:inline-block;
+}
+.div-logo{
+	width:300px;
+	height:80px;
+	background-color: #6D6E6A;
+	margin: 10px;
+	display:inline-block;
+}
+.div-menu{
+	width:900px;
+	height:80px;
+	background-color:#8CC35C;
+	margin: 10px;
+	float:right;
+	display:inline-block;
+}
+.bannar{
+	width:100%;
+	height:800px;
+	background-color:blue;
+}
+.header-d-2{
+	display:inline-block;
+	width:100%;
+	height:100px;
+	background-color: yellow;
+}
+.heading{
+	width:600px;
+	height:80px;
+	background-color:white;
+	margin:10px auto;
+}
+.about-section{
+	width:100%;
+	height:700px;
+	background-color:#BF5550;
+	display:inline-block;
+}
+.abt-1{
+	width:500px;
+	height:600px;
+	background-color:orange;
+	display:inline-block;
+	margin:50px 80px;
+}
+.abt-2{
+	width:500px;
+	height:600px;
+	background-color:#B18C61;
+	float:right;
+	margin:50px 80px;
+}
+.header-d-3{
+	display:inline-block;
+	width:100%;
+	height:100px;
+	background-color: #B18C61;
+}
+.heading-2{
+	width:600px;
+	height:80px;
+	background-color:green;
+	margin:10px auto;
+}
+.section-2{
+	display:inline-block;
+	width:100%;
+	height:400px;
+	background-color: #0D0653;
+}
+.ab-1{
+	width:900px;
+	height:200px;
+	background-color:#93E54A;
+	margin:100px auto;
+}
+.footer-d-1{
+	display:inline-block;
+	width:100%;
+	height:100px;
+	background-color: #767676;
+
+
+
